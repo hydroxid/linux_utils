@@ -24,7 +24,7 @@ target_path='unibackups/'
 # kontrola, zda file_list existuje
 if [ -e "$file_list" ]; then
 
-  # iterace přes jednotlivé řádky
+  # iterace pres jednotlive radky
   while IFS= read -r src_path; do
 
     echo "Procesing: $src_path"
