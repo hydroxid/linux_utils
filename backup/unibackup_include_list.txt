@@ -1,0 +1,3 @@
+/home/user/Dir1
+/home/user/Dir2
+/home/user/Dir3

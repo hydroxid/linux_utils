@@ -1,0 +1,9 @@
+.*/
+cp_*
+*tmp*
+*temp*
+*cache*
+*backup*
+*.raw
+*.img
+*node_modules*
